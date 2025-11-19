@@ -1,1 +1,1 @@
-
+Projeto utilizando um menu CRUD. A ideia é basicamente criar uma solução para cadastro de alunos em uma escola de idiomas fictícia, onde o administrador pode cadastrar os alunos, ler os dados, atualizar os dados e exluir os registros dos alunos.
